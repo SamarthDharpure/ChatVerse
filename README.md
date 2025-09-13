@@ -1,4 +1,4 @@
-# 👽 ChatVerse – Real Time Communication Platform  
+# 🪄 ChatVerse – Real Time Communication Platform  
 
 **ChatVerse** is a scalable, real-time communication platform designed to handle thousands of concurrent users with ultra-low latency. Built with **Java (Spring Boot)** for the backend, **MongoDB** for persistence, and **WebSockets + REST APIs** for instant messaging. The frontend is crafted with **Tailwind CSS**, ensuring a clean and responsive UI.  
 
@@ -38,7 +38,9 @@
 
 ChatVerse/
 │── backend_chat/ # Spring Boot backend (Java + WebSockets + MongoDB)
+
 │── frontend_chat/ # Frontend (HTML, JS, Tailwind CSS)
+
 │── README.md # Project Documentation
 
 ## ⚙️ Installation & Setup  
