@@ -113,7 +113,7 @@ _40% improvement in user retention with responsive UI_
 # Real-Time Messaging
 <img width="1919" height="904" alt="Screenshot 2025-09-03 145126" src="https://github.com/user-attachments/assets/62b90dca-b2f4-4c1b-a10f-8f8506a907a4" />
 
-🤝 Contributing
+🤝 **Contributing**
 
 _Contributions are welcome! 🎯_
 
@@ -123,15 +123,14 @@ _Create a feature branch_
 
 _Submit a pull request 🚀_
 
-🧑‍💻 Author
-Samarth Dharpure
+🧑‍💻 **Author** - Samarth Dharpure
 
 🌐 [LinkedIn](https://www.linkedin.com/in/samarth-dharpure-88a10b248/)
 
 💻 [GitHub](https://github.com/SamarthDharpure)
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License.
 
-⭐ If you like this project, don’t forget to star the repo.
+⭐ **Note** : If you like this project, don’t forget to star the repo.
