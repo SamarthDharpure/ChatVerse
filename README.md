@@ -66,43 +66,43 @@ ChatVerse/
 
 1️⃣ **Clone the Repository**  
 
-git clone https://github.com/samarthdharpure/ChatVerse.git | cd ChatVerse
-
+_git clone https://github.com/samarthdharpure/ChatVerse.git | cd ChatVerse_
 2️⃣ Backend Setup (Spring Boot)
 
-cd backend_chat | mvn clean install |mvn spring-boot:run
+_cd backend_chat | mvn clean install |mvn spring-boot:run_
 
 3️⃣ Frontend Setup
 
-cd frontend_chat | npm install | npm run dev
+_cd frontend_chat | npm install | npm run dev_
 
 4️⃣ MongoDB Connection
 
-Ensure MongoDB is running locally on mongodb://localhost:27017/ | Default DB: chatverseDB
+_Ensure MongoDB is running locally on mongodb://localhost:27017/ | Default DB: chatverseDB_
 
-🚀 Usage
+🚀 **Usage**
 
-Open http://localhost:8080/ in browser for frontend.
+_Open http://localhost:8080/ in browser for frontend._
 
-Backend runs at http://localhost:8080/.
+_Backend runs at http://localhost:8080/._
 
-Test APIs via Postman (/api/messages, /api/rooms).
+_Test APIs via Postman (/api/messages, /api/rooms)._
 
-Start chatting in real-time! 🎉
+_Start chatting in real-time! 🎉_
 
-📊 Performance Highlights
+📊 **Performance Highlights**
 
-1,000+ concurrent users with latency < 150 ms
+_1,000+ concurrent users with latency < 150 ms_
 
-50,000+ daily messages processes
+_50,000+ daily messages processes_
 
-30% faster retrieval with optimized schema design
+_30% faster retrieval with optimized schema design_
 
-99.9% message delivery reliability
+_99.9% message delivery reliability_
 
-40% improvement in user retention with responsive UI
+_40% improvement in user retention with responsive UI_
 
-📸 Screenshots
+📸 **Screenshots**
+
 # Home
 <img width="1919" height="906" alt="Screenshot 2025-09-03 144513" src="https://github.com/user-attachments/assets/dc4831f2-0939-4d36-98c2-71b2f73d4675" />
 # Chat Rooms
@@ -112,13 +112,13 @@ Start chatting in real-time! 🎉
 
 🤝 Contributing
 
-Contributions are welcome! 🎯
+_Contributions are welcome! 🎯_
 
-Fork the repo
+_Fork the repo_
 
-Create a feature branch
+_Create a feature branch_
 
-Submit a pull request 🚀
+_Submit a pull request 🚀_
 
 🧑‍💻 Author
 Samarth Dharpure
