@@ -15,13 +15,18 @@
 
 ## 📙 Description
 **ChatVerse – Real-Time Communication Platform** (June 2025 – October 2025)
+
 _Java, Spring Boot, MongoDB, WebSockets, REST API, Tailwind CSS_
+
 – Built a real-time messaging platform supporting over 1,000 concurrent users with latency below 150 ms using
 Spring Boot and WebSockets.
+
 – Architected a scalable backend on MongoDB, processing more than 50,000 daily messages with 30% faster
 retrieval through streamlined schema design.
+
 – Implemented and tested RESTful APIs with Postman, achieving 99.9% delivery reliability and seamless room
 creation/joining workflows.
+
 – Created a responsive UI with Tailwind CSS, improving user retention by 40% and scoring above 95% in
 Lighthouse performance and accessibility audits.
 
