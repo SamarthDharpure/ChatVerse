@@ -115,19 +115,13 @@ _40% improvement in user retention with responsive UI_
 
 🤝 **Contributing**
 
-_Contributions are welcome! 🎯_
+_Contributions are welcome! 🎯_ | _Fork the repo_
 
-_Fork the repo_
-
-_Create a feature branch_
-
-_Submit a pull request 🚀_
+_Create a feature branch_ | _Submit a pull request 🚀_
 
 🧑‍💻 **Author** - Samarth Dharpure
 
-🌐 [LinkedIn](https://www.linkedin.com/in/samarth-dharpure-88a10b248/)
-
-💻 [GitHub](https://github.com/SamarthDharpure)
+🌐 [LinkedIn](https://www.linkedin.com/in/samarth-dharpure-88a10b248/) | 💻 [GitHub](https://github.com/SamarthDharpure)
 
 📜 **License**
 
