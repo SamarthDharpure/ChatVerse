@@ -14,7 +14,8 @@
 - 📊 **Performance First**: 95%+ Lighthouse scores in performance & accessibility.
 
 ## 📙 Description
-# **ChatVerse – Real-Time Communication Platform** (June 2025 – October 2025)
+
+ **ChatVerse – Real-Time Communication Platform** (June 2025 – October 2025)
 
 _Java, Spring Boot, MongoDB, WebSockets, REST API, Tailwind CSS_
 
