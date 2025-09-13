@@ -37,6 +37,7 @@
 ## 📂 Project Structure  
 
 ChatVerse/
+
 │── backend_chat/ # Spring Boot backend (Java + WebSockets + MongoDB)
 
 │── frontend_chat/ # Frontend (HTML, JS, Tailwind CSS)
@@ -94,9 +95,15 @@ Start chatting in real-time! 🎉
 40% improvement in user retention with responsive UI
 
 📸 Screenshots
+
+🔹 Home
+<img width="1919" height="906" alt="Screenshot 2025-09-03 144513" src="https://github.com/user-attachments/assets/dc4831f2-0939-4d36-98c2-71b2f73d4675" />
+
 🔹 Chat Rooms
+<img width="1918" height="899" alt="Screenshot 2025-09-03 144817" src="https://github.com/user-attachments/assets/326f8339-70a8-42cf-a71e-aaab7d1696bf" />
 
 🔹 Real-Time Messaging
+<img width="1919" height="904" alt="Screenshot 2025-09-03 145126" src="https://github.com/user-attachments/assets/62b90dca-b2f4-4c1b-a10f-8f8506a907a4" />
 
 🤝 Contributing
 
