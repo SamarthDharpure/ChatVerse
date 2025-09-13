@@ -67,15 +67,16 @@ ChatVerse/
 1️⃣ **Clone the Repository**  
 
 _git clone https://github.com/samarthdharpure/ChatVerse.git | cd ChatVerse_
-2️⃣ Backend Setup (Spring Boot)
+
+2️⃣ **Backend Setup (Spring Boot)**
 
 _cd backend_chat | mvn clean install |mvn spring-boot:run_
 
-3️⃣ Frontend Setup
+3️⃣ **Frontend Setup**
 
 _cd frontend_chat | npm install | npm run dev_
 
-4️⃣ MongoDB Connection
+4️⃣ **MongoDB Connection**
 
 _Ensure MongoDB is running locally on mongodb://localhost:27017/ | Default DB: chatverseDB_
 
@@ -101,12 +102,14 @@ _99.9% message delivery reliability_
 
 _40% improvement in user retention with responsive UI_
 
-📸 **Screenshots**
+# 📸 **Screenshots**
 
 # Home
 <img width="1919" height="906" alt="Screenshot 2025-09-03 144513" src="https://github.com/user-attachments/assets/dc4831f2-0939-4d36-98c2-71b2f73d4675" />
+
 # Chat Rooms
 <img width="1918" height="899" alt="Screenshot 2025-09-03 144817" src="https://github.com/user-attachments/assets/326f8339-70a8-42cf-a71e-aaab7d1696bf" />
+
 # Real-Time Messaging
 <img width="1919" height="904" alt="Screenshot 2025-09-03 145126" src="https://github.com/user-attachments/assets/62b90dca-b2f4-4c1b-a10f-8f8506a907a4" />
 
