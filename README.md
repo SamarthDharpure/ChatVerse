@@ -66,56 +66,58 @@ ChatVerse/
 
 1️⃣ **Clone the Repository**  
 
-git clone https://github.com/samarthdharpure/ChatVerse.git
-cd ChatVerse
+git clone https://github.com/samarthdharpure/ChatVerse.git | cd ChatVerse
 
 2️⃣ Backend Setup (Spring Boot)
 
-cd backend_chat
-mvn clean install
-mvn spring-boot:run
+cd backend_chat | mvn clean install |mvn spring-boot:run
 
 3️⃣ Frontend Setup
 
-cd frontend_chat
-npm install
-npm run dev
+cd frontend_chat | npm install | npm run dev
 
 4️⃣ MongoDB Connection
 
-Ensure MongoDB is running locally on mongodb://localhost:27017/
-Default DB: chatverseDB
+Ensure MongoDB is running locally on mongodb://localhost:27017/ | Default DB: chatverseDB
 
 🚀 Usage
 
 Open http://localhost:8080/ in browser for frontend.
+
 Backend runs at http://localhost:8080/.
+
 Test APIs via Postman (/api/messages, /api/rooms).
+
 Start chatting in real-time! 🎉
 
 📊 Performance Highlights
 
 1,000+ concurrent users with latency < 150 ms
-50,000+ daily messages processe
+
+50,000+ daily messages processes
+
 30% faster retrieval with optimized schema design
+
 99.9% message delivery reliability
+
 40% improvement in user retention with responsive UI
 
 📸 Screenshots
-🔹 Home
+# Home
 <img width="1919" height="906" alt="Screenshot 2025-09-03 144513" src="https://github.com/user-attachments/assets/dc4831f2-0939-4d36-98c2-71b2f73d4675" />
-
-🔹 Chat Rooms
+# Chat Rooms
 <img width="1918" height="899" alt="Screenshot 2025-09-03 144817" src="https://github.com/user-attachments/assets/326f8339-70a8-42cf-a71e-aaab7d1696bf" />
-
-🔹 Real-Time Messaging
+# Real-Time Messaging
 <img width="1919" height="904" alt="Screenshot 2025-09-03 145126" src="https://github.com/user-attachments/assets/62b90dca-b2f4-4c1b-a10f-8f8506a907a4" />
 
 🤝 Contributing
 
 Contributions are welcome! 🎯
+
 Fork the repo
+
 Create a feature branch
+
 Submit a pull request 🚀
 
 🧑‍💻 Author
