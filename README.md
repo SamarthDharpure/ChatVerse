@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ChatVerse;Real-Time+Communication+Platform;Built+for+Scale.+Built+for+Speed." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=ChatVerse&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Real-Time%20Communication%20Platform&descAlignY=58&descSize=18&descColor=E0F2FE" width="100%" alt="ChatVerse banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Built+for+Scale.+Built+for+Speed.;Sub-150ms+Latency+%7C+1%2C000%2B+Concurrent+Users;Java+%C2%B7+Spring+Boot+%C2%B7+WebSockets+%C2%B7+MongoDB" alt="Typing SVG" />
 
 **A scalable, real-time messaging platform engineered for thousands of concurrent users at sub-150ms latency**
 
